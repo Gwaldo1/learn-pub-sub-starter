@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 	"time"
-
-	"github.com/bootdotdev/learn-pub-sub-starter/internal/routing"
+	// removed github
+	"learn-pub-sub-starter/internal/routing"
 )
 
 const logsFile = "game.log"
